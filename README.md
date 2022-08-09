@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fenafernandez
 - 👀 I’m interested in Front End by the moment.
-- 🌱 I’m currently learning HTML5, CSS3 and Javascript. Mid term goal is to get into Angular and React.
+- 🌱 I’m currently learning HTML5, CSS3 and Javascript. Mid term goal is to get into backend development with Python and PHP.
 - 💞️ I’m looking to collaborate on anything i can help with given my current experience. Just getting my hands into coding with newbie challenges
 - 📫 How to reach me:
         Linkedin: https://www.linkedin.com/in/fernando-fern%C3%A1ndez-morales/
